@@ -28,6 +28,7 @@ modules:
         - brave-origin
         - btop
         - fastfetch
+        - fuse-libs
         - mangohud
         - neovim
         - obs-studio
