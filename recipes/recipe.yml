@@ -35,6 +35,10 @@ modules:
         - rocm-smi
         - solaar
         - xremap-kde
+    group-install:
+      with-optional: true
+      packages:
+        - virtualization
     remove:
       packages:
         - firefox
