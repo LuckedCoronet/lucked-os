@@ -34,7 +34,6 @@ modules:
         - obs-studio
         - rocm-smi
         - solaar
-        - steam
         - xremap-kde
     group-install:
       with-optional: true
