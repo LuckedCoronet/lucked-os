@@ -31,7 +31,6 @@ modules:
         - fuse-libs
         - mangohud
         - neovim
-        - obs-studio
         - rocm-smi
         - solaar
         - xremap-kde
